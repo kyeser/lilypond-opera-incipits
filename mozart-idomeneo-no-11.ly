@@ -17,17 +17,19 @@
   vocalName = \markup \smallCaps Ilia
 }
 \relative c'' {
-  \mark \markup "No. 1 Aria"
-  \key g \minor
+  \mark \markup "No. 11 Aria"
+  \clef "treble"
+  \key es \major
   \time 2/4
-  \tempo "Andante con moto"
+  \tempo "Andante ma sostenuto"
   \autoBeamOff
-  \set Score.currentBarNumber = #5
+  \set Score.currentBarNumber = #1
   \bar ""
-  g8 g r8. g16 | d'8 d r8. d16 |
-  d16([ g)] d8 r8 g8 | es8 es r4
+  \partial 8 bes8 |
+  bes16([ es)] es4 f8 | f es r es |
+  b16([ c)] c4 es8 |
+  \partial 4. a,16([ bes)] bes4
 }
 \addlyrics {
-  Pa -- dre, ger -- | ma -- ni, ad --
-  di -- o! voi | fo -- ste,
+  "Se il" pa -- dre per -- de -- i, la pa- "tria il" ri -- po -- so,
 }
