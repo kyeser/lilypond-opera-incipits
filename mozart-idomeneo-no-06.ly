@@ -25,10 +25,10 @@
   \autoBeamOff
   \set Score.currentBarNumber = #4
   \bar ""
-  r4 r r8 g8 | g8([ c)] c4. c8 | c8([ bes)] bes2 | 
-  \appoggiatura c16 bes8([ a16 g)] g4. bes8 | gis8([ a)] a4 r4
+  r4 r r8 g | g8([ c)] c4. c8 | c8([ bes)] bes2 | 
+  \appoggiatura c16 bes8([ a16 g)] g4. bes8 | gis8([ a)] a4 r
 }
 \addlyrics {
-  Ve- | drom mi in- | tor- no 
-  l'om- bra do- | len- te,
+  Ve -- | drom mi in -- | tor -- no 
+  l'om -- bra do -- | len -- te,
 }

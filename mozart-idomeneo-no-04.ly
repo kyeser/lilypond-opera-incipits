@@ -24,8 +24,8 @@
   \autoBeamOff
   \set Score.currentBarNumber = #19
   \bar ""
-  a4 a8 a a4. a8 | a8([ f)] f4 r4 r8 d'8 |
-  d8([ a)] a4 r4 r8 f'8 | f8([ d)] d4 r2
+  a4 a8 a a4. a8 | a8([ f)] f4 r r8 d' |
+  d8([ a)] a4 r r8 f' | f8([ d)] d4 r2
 }
 \addlyrics {
   Tut- te nel cor vi | sen- to, vi

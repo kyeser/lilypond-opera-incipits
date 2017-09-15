@@ -1,0 +1,2 @@
+@image{mozart-idomeneo-no-11-1}
+@c eof

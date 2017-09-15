@@ -24,8 +24,8 @@
   \autoBeamOff
   \set Score.currentBarNumber = #1
   \bar ""
-  r2 r4 f8. a,16 | bes8 bes8 r4 r8. es16 es8. a,16 |
-  bes8 bes8 r4 r8. es16 es8. a,16
+  r2 r4 f8. a,16 | bes8 bes r4 r8. es16 es8. a,16 |
+  bes8 bes r4 r8. es16 es8. a,16
 }
 \addlyrics {
   Non ho | col- pa, e mi con-

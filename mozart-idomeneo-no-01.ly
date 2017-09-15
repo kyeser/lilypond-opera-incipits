@@ -28,6 +28,6 @@
   d16([ g)] d8 r8 g8 | es8 es r4
 }
 \addlyrics {
-  Pa -- dre, ger -- | ma -- ni, ad --
-  di -- o! voi | fo -- ste,
+  Pa- dre, ger- | ma- ni, ad-
+  di- o! voi | fo- ste,
 }

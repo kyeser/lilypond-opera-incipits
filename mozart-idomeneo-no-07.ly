@@ -26,8 +26,8 @@
   \set Score.currentBarNumber = #1
   \set melismaBusyProperties = #'()
   \bar ""
-  r2 r4 r8 f8 | f2 f8([ a)] a8([ c)] |
-  c8([ a)] a4 r4 r8 f' | f8([ c)] c4 r2
+  r2 r4 r8 f | f2 f8([ a)] a8([ c)] |
+  c8([ a)] a4 r r8 f' | f8([ c)] c4 r2
 }
 \addlyrics {
   Il | pa -- dre a -- do -- _ | ra -- _ to ri -- | tro -- _ vo,
