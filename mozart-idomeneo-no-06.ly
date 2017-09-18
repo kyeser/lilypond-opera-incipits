@@ -30,5 +30,5 @@
 }
 \addlyrics {
   Ve -- | drom mi in -- | tor -- no 
-  l'om -- bra do -- | len -- te,
+  l’om -- bra do -- | len -- te,
 }
